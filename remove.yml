@@ -1,0 +1,3 @@
+profile: remove
+excluded_packages:
+  - buildservice.tanzu.vmware.com
